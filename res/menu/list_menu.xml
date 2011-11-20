@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/refresh_list"
+          android:icon="@android:drawable/ic_menu_rotate"
+          android:title="Refresh" />
+    <item android:id="@+id/sort_upvotes"
+          android:icon="@android:drawable/ic_menu_add"
+          android:title="Popular" />
+    <item android:id="@+id/sort_recent"
+          android:icon="@android:drawable/ic_menu_my_calendar"
+          android:title="Recent" />
+
+</menu>
